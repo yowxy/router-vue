@@ -2,7 +2,7 @@
 website using VUE.js like
 
 
-  -open url with vur=e router
+  -open url with vue.js router
   -create nested component with router
   - How to avoid error
   - Error handling
